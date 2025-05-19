@@ -54,7 +54,9 @@ MP1584EN → Output to ESP32 3.3V rail
 
 ## 📸 Screenshots / Photos
 
-> *(Add circuit photos or ThingSpeak dashboard screenshots here)*
+> ![Web DashBoard](img/web.png)
+> ![Thingspeak Dashboard](img/data.png)
+
 
 ---
 
